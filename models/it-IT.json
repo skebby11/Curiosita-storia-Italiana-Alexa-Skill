@@ -1,0 +1,46 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "storia italiana",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "storia italiana",
+                        "storia dell'italia",
+                        "dirmi una storia italiana",
+                        "dirmi una storia dell'italia",
+                        "darmi un storia italiana",
+                        "darmi unaa storia dell'italia",
+                        "darmi qualche storia sull'italia",
+                        "darmi qualche storia italiana",
+                        "dirmi una storia",
+                        "dimmi una storia italiana",
+                        "dammi una storia",
+                        "dammi qualche storia sull'italia",
+                        "dimmi una storia",
+                        "dammi una storia sull'italia"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}

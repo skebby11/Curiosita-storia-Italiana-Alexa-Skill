@@ -1,0 +1,19 @@
+{
+  "name": "curiosita-sulla-storia-italiana",
+  "version": "1.0.0",
+  "description": "Chiedi ad Alexa curiosità sull'Italia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poesia",
+    "curiosità",
+    "italia"
+  ],
+  "author": "Sebastiano Riva",
+  "license": "CC BY-NC-ND",
+  "dependencies": {
+    "ask-sdk": "^2.0.0"
+  }
+}
